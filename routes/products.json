@@ -1,0 +1,12 @@
+[
+	{
+		"id": 2,
+		"name": "Arroz",
+		"preco": 10.3
+	},
+	{
+		"id": 1,
+		"name": "feijao",
+		"preco": 13
+	}
+]
